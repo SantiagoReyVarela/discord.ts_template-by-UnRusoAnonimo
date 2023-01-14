@@ -1,0 +1,5 @@
+{
+    "token": "token de tu bot",
+    "clienteID": "ID de tu bot",
+    "guildID": "Server en el que quieres que se cargen los comandos, dejar en blanco para cargar los comandos en cualquier server"
+}
